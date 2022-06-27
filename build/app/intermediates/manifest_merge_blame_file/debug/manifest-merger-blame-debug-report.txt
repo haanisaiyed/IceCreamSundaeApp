@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.example.assignment3_saiyed"
+3    package="com.example.assignment4_saiyed"
 4    android:versionCode="1"
 5    android:versionName="1.0.0" >
 6
@@ -12,8 +12,8 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/Users/Haani/AndroidStudioProjects/Assignment3_Saiyed/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/Users/Haani/AndroidStudioProjects/Assignment3_Saiyed/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/Users/Haani/AndroidStudioProjects/assignment4_saiyed/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/Users/Haani/AndroidStudioProjects/assignment4_saiyed/android/app/src/debug/AndroidManifest.xml:6:22-64
 15
 16    <application
 17        android:name="android.app.Application"
@@ -21,9 +21,9 @@
 18-->[androidx.core:core:1.6.0] /Users/Haani/.gradle/caches/transforms-2/files-2.1/122df2e57d294d1a53db26bbc3b813c1/core-1.6.0/AndroidManifest.xml:24:18-86
 19        android:debuggable="true"
 20        android:icon="@mipmap/ic_launcher"
-21        android:label="assignment3_saiyed" >
+21        android:label="assignment4_saiyed" >
 22        <activity
-23            android:name="com.example.assignment3_saiyed.MainActivity"
+23            android:name="com.example.assignment4_saiyed.MainActivity"
 24            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
 25            android:exported="true"
 26            android:hardwareAccelerated="true"
